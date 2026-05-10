@@ -1,0 +1,20 @@
+species,taxon_id,common_name_en,toxicity_category
+Amanita muscaria,48715,Fly Agaric,seriously toxic
+Coprinus comatus,47392,Shaggy Mane,edible
+Tremella mesenterica,48529,Witch's Butter,edible
+Laccaria amethystina,55899,Amethyst Deceiver,edible
+Amanita rubescens,67661,Blusher,edible
+Coprinopsis picacea,63224,Magpie Inkcap,mildly toxic
+Auricularia auricula-judae,50813,Jelly Ear,edible
+Fomitopsis pinicola,1098280,Red-banded Polypore,inedible
+Trametes versicolor,54134,Turkey-tail,edible
+Oudemansiella mucida,55964,Porcelain Mushroom,edible
+Xylaria hypoxylon,55267,Candlesnuff Fungus,inedible
+Amanita citrina,63271,False Death-cap,mildly toxic
+Fomitopsis betulina,775410,Birch Polypore,inedible
+Meripilus giganteus,157989,Giant Polypore,edible
+Clitocybe nebularis,63255,Cloudy Clitocybe,mildly toxic
+Fomes fomentarius,127510,Hoof Fungus,inedible
+Boletus edulis,48701,King Bolete,edible
+Cerioporus squamosus,940028,Dryad's Saddle,edible
+Phallus impudicus,54594,Common Stinkhorn,edible
